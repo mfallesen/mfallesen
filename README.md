@@ -1,4 +1,6 @@
-### Hi there 👋
+## 👋 Oh Hai there! 👋
+
+# My Name is Mike Fallesen and youve stumbled across my github page. 
 
 <!--
 **mfallesen/mfallesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
