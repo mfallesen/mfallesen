@@ -3,7 +3,7 @@
 ### My Name is Mike Fallesen (He/Him/His) and you've stumbled across my github page.
 
 ## 📝 About Me:
-  I'm a developer with 2+ years experience building basic websites for clients. I decided to improve my skills by getting a certificate in Full Stack Engineering from the University of Washington. I really enjoy building applications that use Node.js as well as React.js to keep myelf busy between jobs.  
+  I'm a developer with 2+ years experience building websites for clients. I decided to improve my skills by getting a certificate in Full Stack Engineering from the University of Washington. I really enjoy building applications that use Node.js as well as React.js to keep myelf busy between jobs.  
 
   When I'm not coding I can usually be found either reading, gaming or painting miniatures. I also enjoy the outdooors and take my family camping and hiking whenever possible. 
 
